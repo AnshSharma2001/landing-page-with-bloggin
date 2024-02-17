@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.img {
+    object-fit: cover;
+}
+
+.content {
+    flex: 1;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.desc {
+    font-size: 18px;
+    color: #999
+}
+
+
+
